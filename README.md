@@ -1,6 +1,5 @@
-# Alankritha
-![logo](https://telegra.ph/file/a0b91ee7b62b456cae7ed.jpg)
-💌 Reach me on Telegram [Alankritha](https://t.me/VillainPro_Bot)
+# TINTU MON
+💌 Reach me on Telegram [Tintu mon](https://t.me/CFCHATofficialbot)
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -10,6 +9,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DONOFTELEGRAM/Alankritha/graphs/commit-activity)
 
 # <b>DEPLOY TO HEROKU📤.</b>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/Alankritha)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cinemafactory2/THE-BOSS)
 
 
